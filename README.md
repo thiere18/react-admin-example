@@ -16,6 +16,3 @@ cd ..
 # Run client and server (Visit http://localhost:3000)
 npm run dev
 
-# Run server only (:5000)
-npm run server
-
